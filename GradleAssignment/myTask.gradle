@@ -1,0 +1,3 @@
+task mytask <<{
+    println "inside myTask.gradle "
+}
